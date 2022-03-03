@@ -46,4 +46,7 @@ bestSolution(test2);
 /* TAKEAWAYS:
 first exposure to .substring and .match
 seek to understand .match and regex
+
+Post learning: match is looking for a regex method, regex short for regular expression is a shorthand way of looking for a certan set of characters using 
+some amount of evaluative logic.
 */
