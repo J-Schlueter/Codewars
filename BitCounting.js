@@ -34,6 +34,7 @@ function countSetBits(n) //expect parameter of n for Integer number being passed
    */
 
    // YOUTUBE SOLUTION
+   //make an array of the 1's in the binary number and return the number of entries
 var countBits = function(n)  {
     const setBits = n.toString(2).match(/1/g);
     return setBits ? setBits.length : 0;
