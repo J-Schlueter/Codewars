@@ -33,4 +33,4 @@ console.log(reverseString("hi"));
 console.log(reverseString("catbaby"));
 
 // Here is a codewars solution to a similar problem without the restriction of no reverse method, and including symbols in test cases with the desired result of no symbols.
-// reverseLetter=(s)=>s.replace(/[^a-z]/gi,'').split('').reverse().join('');
+// const reverseLetter=(s)=>s.replace(/[^a-z]/gi,'').split('').reverse().join('');
